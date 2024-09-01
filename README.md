@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Adam
+![Banner image](assets/banner.png)
 
 <table>
   <tr>
@@ -18,16 +18,6 @@
     </td>
   </tr>
 </table>
-
-## About Me
-
-I'm a passionate fullstack software engineer with a strong focus on creating efficient, scalable, and user-friendly web applications. Whether it's developing front-end interfaces with React or building robust back-end systems, I enjoy tackling complex problems and turning ideas into reality.
-
-## 🎥 My YouTube Channel
-
-Check out my latest video:
-
-[![Latest Video](https://img.youtube.com/vi/ej0SY1qOTsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ej0SY1qOTsU)
 
 ## 🌟 Coding Projects
 
@@ -71,6 +61,16 @@ Check out my latest video:
 | [Library Contribution 4](https://github.com/repository) | Assisted in the migration of a project to TypeScript.      |
 | [Library Contribution 5](https://github.com/repository) | Created automated tests for an open-source Python project. |
 
+## About Me
+
+I'm a passionate fullstack software engineer with a strong focus on creating efficient, scalable, and user-friendly web applications. Whether it's developing front-end interfaces with React or building robust back-end systems, I enjoy tackling complex problems and turning ideas into reality.
+
+## 🎥 My YouTube Channel
+
+Check out my latest video:
+
+[![Latest Video](https://img.youtube.com/vi/ej0SY1qOTsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ej0SY1qOTsU)
+
 ## 🧑‍💻 Fun Facts About Me
 
 - 🐕 I have a dog named Brock.
@@ -81,8 +81,8 @@ Check out my latest video:
 
 ## 🖼️ Featured Images
 
-![Photography](https://source.unsplash.com/random/800x600)  
-Here's one of my favorite shots I've taken recently. I love how photography allows me to capture and share the beauty I see in the world around me.
+![Photography](assets/brock.jpg)  
+Here's a photo of Brock at the beach
 
 ## Connect with Me
 
