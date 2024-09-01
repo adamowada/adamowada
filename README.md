@@ -7,6 +7,17 @@
 ![Top Languages](https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical)
 
+## 🧩 LeetCode Stats
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-adamowada-yellow?style=flat&logo=leetcode)](https://leetcode.com/adamowada)
+![LeetCode Stats](https://leetcard.jacoblin.cool/adamowada?theme=transparent&ext=activity)
+
+## 🧑‍💻 Repl.it Contributions
+[![Repl.it Profile](https://img.shields.io/badge/Repl.it-adamowada-orange?style=flat&logo=replit)](https://replit.com/@adamowada)
+
+## 📊 Kaggle Statistics
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-aowada-blue?style=flat&logo=kaggle)](https://www.kaggle.com/aowada)
+
+
 ## About Me
 I'm a passionate fullstack software engineer with a strong focus on creating efficient, scalable, and user-friendly web applications. Whether it's developing front-end interfaces with React or building robust back-end systems, I enjoy tackling complex problems and turning ideas into reality.
 
