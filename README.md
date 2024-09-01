@@ -1,19 +1,23 @@
 # Hi there! 👋 I'm Adam
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <div>
-    <img src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical" alt="Adam's GitHub Stats"/>
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical" alt="Streak Stats"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
-  </div>
-  <div>
-    <img src="https://leetcard.jacoblin.cool/adamowada?theme=transparent&ext=activity" alt="LeetCode Stats"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical" alt="Adam's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical" alt="Streak Stats"/>
+    </td>
+  </tr>
+  <tr>    
+    <td>
+      <img src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/adamowada?theme=transparent&ext=activity" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
