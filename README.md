@@ -11,7 +11,7 @@
   </tr>
   <tr>    
     <td>
-      <img src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+      <img src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
     </td>
     <td>
       <img src="https://leetcard.jacoblin.cool/adamowada?theme=transparent&ext=activity" alt="LeetCode Stats"/>
