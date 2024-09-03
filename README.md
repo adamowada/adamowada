@@ -77,7 +77,7 @@ Check out my latest video:
 - 📸 I love photography and often spend my weekends capturing landscapes.
 - 🎮 I'm a big fan of strategy games like Frostpunk.
 - 🌲 I recently went camping in Olympic National Park.
-- ☕ I’m always on the lookout for the best coffee in town.
+- ☕ I like brewing coffee and espresso, and am always in search of a good single origin coffee.
 
 ## 🖼️ Featured Images
 
