@@ -63,7 +63,7 @@
 
 ## About Me
 
-I'm a passionate fullstack software engineer with a strong focus on creating efficient, scalable, and user-friendly web applications. Whether it's developing front-end interfaces with React or building robust back-end systems, I enjoy tackling complex problems and turning ideas into reality.
+I like building tools that help users be more efficient with their time. Lately I've been building apps utilizing GPT-4o, and OpenAI's Assistants API. My specialty is in full stack web development using Django and Next.js, and I have experience teaching web development to beginners, intermediates, and advanced developers alike. I'm also experienced in web scraping, API development, database engineering, TensorFlow, and the MERN stack.
 
 ## 🎥 My YouTube Channel
 
@@ -73,13 +73,13 @@ Check out my latest video:
 
 ## 🧑‍💻 Fun Facts About Me
 
-- 🐕 I have a dog named Brock.
-- 📸 I love photography and often spend my weekends capturing landscapes.
-- 🎮 I'm a big fan of strategy games like Frostpunk.
-- 🌲 I recently went camping in Olympic National Park.
-- ☕ I like brewing coffee and espresso, and am always in search of a good single origin coffee.
+- 🐕 My dog Brock is a husky-retriever-foxhound-pitbull mut
+- 🌲 I like exploring the outdoors and recently went camping at Olympic National Park
+- 📸 I've been getting into portrait photography with my Sony a6500
+- 🏋️‍♂️ I've competed in 4 men's physique bodybuilding competitions
+- ☕ Coffee is life
 
-## 🖼️ Featured Images
+## 🖼️ Featured Image
 
 ![Photography](assets/brock.jpg)  
 Here's a photo of Brock at the beach
