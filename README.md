@@ -26,10 +26,10 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical&card_width=320" alt="Streak Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=260 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=320" alt="Top Languages"/>
+  <img height=270 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=320" alt="Top Languages"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=260 align="center" src="https://leetcard.jacoblin.cool/adamowada?theme=transparent&ext=activity" alt="LeetCode Stats"/>
+  <img height=270 align="center" src="https://leetcard.jacoblin.cool/adamowada?theme=transparent&ext=activity" alt="LeetCode Stats"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
