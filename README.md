@@ -20,7 +20,7 @@
 </table> -->
 
 <span>
-  <img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical" alt="Adam's GitHub Stats"/>
+  <img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical&card_width=320" alt="Adam's GitHub Stats"/>
 </span>
 <span>
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical" alt="Streak Stats"/>
