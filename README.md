@@ -19,13 +19,18 @@
   </tr>
 </table> -->
 
-<img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical" alt="Adam's GitHub Stats"/>
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical" alt="Streak Stats"/>
-<img height=272 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=320" alt="Top Languages"/>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical" alt="Adam's GitHub Stats"/>
+</span>
+<span>
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical" alt="Streak Stats"/>
+</span>
+<span>
+  <img height=272 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=320" alt="Top Languages"/>
+</span>
 <a href="https://leetcode.com/u/adamowada/">
   <img height=270 align="center" src="https://leetcard.jacoblin.cool/adamowada?theme=dark&ext=activity" alt="LeetCode Stats"/>
 </a>
-
 
 ## 🌟 Coding Projects
 
