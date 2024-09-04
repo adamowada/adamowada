@@ -20,10 +20,10 @@
 </table> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical" alt="Adam's GitHub Stats"/>
+  <img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical&card_width=320" alt="Adam's GitHub Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical" alt="Streak Stats"/>
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical&card_width=320" alt="Streak Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=430" alt="Top Languages"/>
