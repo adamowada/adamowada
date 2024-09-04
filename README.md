@@ -1,24 +1,4 @@
 ![Banner image](assets/banner.png)
-
-<!-- <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical" alt="Adam's GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical" alt="Streak Stats"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
-    </td>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/adamowada?theme=transparent&ext=activity" alt="LeetCode Stats"/>
-    </td>
-  </tr>
-</table> -->
-
 <span>
   <img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical&card_width=320" alt="Adam's GitHub Stats"/>
 </span>
