@@ -12,10 +12,10 @@
   <img height=283 align="center" src="https://colorful-leetcode-stats.vercel.app/api/replace-colors?username=adamowada&bg-0=141321&text-0=D83B7D&text-1=A9FEF7&bg-2=E4E2E2&bg-1=d7fffb&color-0=563D7C&color-1=7dd83b&color-2=d8b53b&color-3=431C36" alt="LeetCode Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical&card_width=520" />
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical&card_width=520" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
 </a>
 
 ## 🌟 Coding Projects
