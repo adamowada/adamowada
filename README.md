@@ -34,7 +34,7 @@
 <details open> 
   <summary><h2>👋 About Me</h2></summary>
 
-  <p>I like building tools that help users be more efficient with their time. Lately I've been building apps utilizing GPT-4o, and OpenAI's Assistants API. My specialty is in full stack web development using Django and Next.js, and I have experience teaching web development to beginners, intermediates, and advanced developers alike. I'm also experienced in web scraping, API development, database engineering, TensorFlow, and the MERN stack.</p>
+  <p>Hi, I'm Adam, a fullstack software dev and AI tinkerer based in Seattle. I'm the co-founder and sole developer of Observe Safety, an enterprise SaaS platform designed to help general contractors efficiently track and manage safety data.</p>
 </details>
 
 <details closed> 
