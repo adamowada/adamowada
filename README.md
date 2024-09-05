@@ -54,11 +54,12 @@ Check out my latest video:
 
 ### 🧑‍💻 Fun Facts About Me
 
-- 🐕 My dog Brock is a husky/retriever/foxhound/pitbull mut
-- 🌲 I love exploring the outdoors and recently went camping at Olympic National Park
-- 📸 I've been getting into portrait photography with my Sony a6500
-- 🏋️‍♂️ I've competed in 4 men's physique bodybuilding competitions
-- ☕ Coffee is life
+- 🐕 My dog Brock is bestest boy
+- 🌲 Recently went camping at Olympic National Park
+- 📸 Portrait photographer rocking a Sony a6500
+- 🏋️‍♂️ Competed in 4 men's physique bodybuilding competitions
+- ☕ Coffee is life!
+- 🎤 Retired wedding DJ/MC with over 10 years of experience
 
 ### 🖼️ Featured Image
 
