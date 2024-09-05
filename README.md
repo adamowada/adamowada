@@ -11,7 +11,6 @@
 <a href="https://leetcode.com/u/adamowada/">
 <img height=283 align="center" src="https://colorful-leetcode-stats.vercel.app/api/replace-colors?username=adamowada&bg-0=141321&text-0=D83B7D&text-1=A9FEF7&bg-2=E4E2E2&bg-1=d7fffb&color-0=563D7C&color-1=7dd83b&color-2=d8b53b&color-3=431C36" alt="LeetCode Stats"/>
 </a>
-
 <details open> 
   <summary><h2>🤖 Cool Projects I've Worked On</h2></summary>
 
@@ -30,13 +29,12 @@
     <a href="https://github.com/adamowada/tflite-test"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=tflite-test&theme=radical" alt="tflite-test"></a>
   </p>
 </details>
-
 <details open> 
   <summary><h2>👋 About Me</h2></summary>
 
   <p>I like building tools that help users be more efficient with their time. Lately I've been building apps utilizing GPT-4o, and OpenAI's Assistants API. My specialty is in full stack web development using Django and Next.js, and I have experience teaching web development to beginners, intermediates, and advanced developers alike. I'm also experienced in web scraping, API development, database engineering, TensorFlow, and the MERN stack.</p>
 
-  <h2>🧑‍💻 Fun Facts</h2>
+  &nbsp;&nbsp;&nbsp;&nbsp;<h2>🧑‍💻 Fun Facts</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐕 My dog Brock is bestest boy<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌲 Recently went camping at Olympic National Park<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📸 Portrait photographer rocking a Sony a6500<br>
@@ -44,7 +42,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☕ Coffee is life!<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎤 Retired wedding DJ/MC with over 10 years of experience<br>
 </details>
-
 <details closed>
   <summary><h2>🎥 My YouTube Channel</h2></summary>
   <h4>Check out my latest video</h4>
@@ -52,7 +49,6 @@
   [![Latest Video](https://img.youtube.com/vi/ej0SY1qOTsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ej0SY1qOTsU)
 
 </details>
-
 <details closed>
   <summary><h2>🖼️ Featured Image</h2></summary>
   <h4>Brock at the beach!</h4>
