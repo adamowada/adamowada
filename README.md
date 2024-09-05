@@ -36,7 +36,7 @@
 
   <p>I like building tools that help users be more efficient with their time. Lately I've been building apps utilizing GPT-4o, and OpenAI's Assistants API. My specialty is in full stack web development using Django and Next.js, and I have experience teaching web development to beginners, intermediates, and advanced developers alike. I'm also experienced in web scraping, API development, database engineering, TensorFlow, and the MERN stack.</p>
 
-  <summary><h2>🧑‍💻 Fun Facts</h2></summary>
+  <h2>🧑‍💻 Fun Facts</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐕 My dog Brock is bestest boy<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌲 Recently went camping at Olympic National Park<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📸 Portrait photographer rocking a Sony a6500<br>
