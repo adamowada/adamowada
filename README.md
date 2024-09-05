@@ -11,6 +11,12 @@
 <a href="https://leetcode.com/u/adamowada/">
   <img height=283 align="center" src="https://colorful-leetcode-stats.vercel.app/api/replace-colors?username=adamowada&bg-0=141321&text-0=D83B7D&text-1=A9FEF7&bg-2=E4E2E2&bg-1=d7fffb&color-0=563D7C&color-1=7dd83b&color-2=d8b53b&color-3=431C36" alt="LeetCode Stats"/>
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical&card_width=520" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+</a>
 
 ## 🌟 Coding Projects
 
@@ -54,30 +60,25 @@
 | [Library Contribution 4](https://github.com/repository) | Assisted in the migration of a project to TypeScript.      |
 | [Library Contribution 5](https://github.com/repository) | Created automated tests for an open-source Python project. |
 
-## About Me
+### About Me
 
 I like building tools that help users be more efficient with their time. Lately I've been building apps utilizing GPT-4o, and OpenAI's Assistants API. My specialty is in full stack web development using Django and Next.js, and I have experience teaching web development to beginners, intermediates, and advanced developers alike. I'm also experienced in web scraping, API development, database engineering, TensorFlow, and the MERN stack.
 
-## 🎥 My YouTube Channel
+### 🎥 My YouTube Channel
 
 Check out my latest video:
 
 [![Latest Video](https://img.youtube.com/vi/ej0SY1qOTsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ej0SY1qOTsU)
 
-## 🧑‍💻 Fun Facts About Me
+### 🧑‍💻 Fun Facts About Me
 
-- 🐕 My dog Brock is a husky-retriever-foxhound-pitbull mut
-- 🌲 I like exploring the outdoors and recently went camping at Olympic National Park
+- 🐕 My dog Brock is a husky/retriever/foxhound/pitbull mut
+- 🌲 I love exploring the outdoors and recently went camping at Olympic National Park
 - 📸 I've been getting into portrait photography with my Sony a6500
 - 🏋️‍♂️ I've competed in 4 men's physique bodybuilding competitions
 - ☕ Coffee is life
 
-## 🖼️ Featured Image
+### 🖼️ Featured Image
 
 ![Photography](assets/brock.jpg)  
-Here's a photo of Brock at the beach
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle/)
+Brock at the beach!
