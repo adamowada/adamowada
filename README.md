@@ -17,48 +17,30 @@
 <a href="https://github.com/adamowada/prompt-engineering-patterns">
   <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=prompt-engineering-patterns&theme=radical" />
 </a>
-
-## 🌟 Coding Projects
-
-### 🚀 Web Development
-
-| Project                                               | Description                                                  |
-| ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Project 1](https://github.com/yourusername/project1) | A fullstack web app built with Next.js and Node.js.          |
-| [Project 2](https://github.com/yourusername/project2) | A responsive e-commerce platform with React and Django.      |
-| [Project 3](https://github.com/yourusername/project3) | A blog site using Gatsby.js and GraphQL.                     |
-| [Project 4](https://github.com/yourusername/project4) | A personal portfolio built with Vue.js and Firebase.         |
-| [Project 5](https://github.com/yourusername/project5) | A real-time chat application using Socket.io and Express.js. |
-
-### 🛠️ Tools & Utilities
-
-| Project                                                               | Description                                            |
-| --------------------------------------------------------------------- | ------------------------------------------------------ |
-| [CLI Tool](https://github.com/yourusername/clitool)                   | A command-line tool to simplify data processing tasks. |
-| [Automation Script](https://github.com/yourusername/automationscript) | Automation scripts for development workflows.          |
-| [DevOps Tool](https://github.com/yourusername/devopstool)             | A Docker-based deployment tool for microservices.      |
-| [API Tester](https://github.com/yourusername/apitester)               | A Postman-like API testing tool built with Python.     |
-| [Log Analyzer](https://github.com/yourusername/loganalyzer)           | A Python tool to analyze server logs efficiently.      |
-
-### 📸 Photography & Image Processing
-
-| Project                                                             | Description                                                |
-| ------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [Photo Editor](https://github.com/yourusername/photoeditor)         | An image processing app built with Python and OpenCV.      |
-| [Gallery](https://github.com/yourusername/gallery)                  | A portfolio site showcasing my photography with Gatsby.js. |
-| [Filter App](https://github.com/yourusername/filterapp)             | A mobile app that applies artistic filters to photos.      |
-| [Image Compressor](https://github.com/yourusername/imagecompressor) | A Python script to compress images without losing quality. |
-| [Watermark Tool](https://github.com/yourusername/watermarktool)     | A tool to add watermarks to images in batch mode.          |
-
-### 🔍 Open Source Contributions
-
-| Project                                                 | Description                                                |
-| ------------------------------------------------------- | ---------------------------------------------------------- |
-| [Library Contribution 1](https://github.com/repository) | Contributed to bug fixes and feature enhancements.         |
-| [Library Contribution 2](https://github.com/repository) | Developed a plugin for an open-source framework.           |
-| [Library Contribution 3](https://github.com/repository) | Improved documentation and examples for a popular library. |
-| [Library Contribution 4](https://github.com/repository) | Assisted in the migration of a project to TypeScript.      |
-| [Library Contribution 5](https://github.com/repository) | Created automated tests for an open-source Python project. |
+<a href="https://github.com/adamowada/slides-to-reveal">
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=slides-to-reveal&theme=radical" />
+</a>
+<a href="https://github.com/adamowada/personal-website">
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=personal-website&theme=radical" />
+</a>
+<a href="https://github.com/adamowada/pevals">
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=evals&theme=radical" />
+</a>
+<a href="https://github.com/adamowada/colorful-leetcode-stats">
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=colorful-leetcode-stats&theme=radical" />
+</a>
+<a href="https://github.com/adamowada/dump-to-text">
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=dump-to-text&theme=radical" />
+</a>
+<a href="https://github.com/adamowada/auto-acp">
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=auto-acp&theme=radical" />
+</a>
+<a href="https://github.com/adamowada/cba-chatbot-demo">
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=cba-chatbot-demo&theme=radical" />
+</a>
+<a href="https://github.com/adamowada/tflite-test">
+  <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=tflite-test&theme=radical" />
+</a>
 
 ### About Me
 
