@@ -9,7 +9,7 @@
   <img height=284 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=320" alt="Top Languages"/>
 </span>
 <a href="https://leetcode.com/u/adamowada/">
-  <img height=282 align="center" src="https://leetcard.jacoblin.cool/adamowada?theme=dark&ext=activity" alt="LeetCode Stats"/>
+  <img height=282 align="center" src="https://colorful-leetcode-stats.vercel.app/api/replace-colors?username=adamowada&bg-0=141321&text-0=D83B7D&text-1=A9FEF7&bg-2=141321&bg-1=d7fffb&color-0=563D7C&color-1=7dd83b&color-2=d8b53b&color-3=431C36" alt="LeetCode Stats"/>
 </a>
 
 ## 🌟 Coding Projects
