@@ -23,7 +23,7 @@
 <a href="https://github.com/adamowada/personal-website">
   <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=personal-website&theme=radical" />
 </a>
-<a href="https://github.com/adamowada/pevals">
+<a href="https://github.com/adamowada/evals">
   <img align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/pin/?username=adamowada&repo=evals&theme=radical" />
 </a>
 <a href="https://github.com/adamowada/colorful-leetcode-stats">
