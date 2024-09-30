@@ -18,6 +18,8 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+    <a href="https://github.com/adamowada/wa-driver-guide-practice-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=wa-driver-guide-practice-frontend&theme=radical" alt="wa-driver-guide-practice-frontend"></a>
+    <a href="https://github.com/adamowada/wa-driver-guide-practice-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=wa-driver-guide-practice-api&theme=radical" alt="wa-driver-guide-practice-api"></a>
     <a href="https://github.com/codefellows/seattle-code-python-401n8"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codefellows&repo=seattle-code-python-401n8&theme=radical" alt="seattle-code-python-401n8"></a>
     <a href="https://github.com/adamowada/prompt-engineering-patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=prompt-engineering-patterns&theme=radical" alt="prompt-engineering-patterns"></a>
     <a href="https://github.com/adamowada/slides-to-reveal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=slides-to-reveal&theme=radical" alt="slides-to-reveal"></a>
@@ -51,7 +53,7 @@
   <summary><h2>🎥 My YouTube Channel</h2></summary>
   <h4>Check out my latest video</h4>
 
-  [![Latest Video](https://img.youtube.com/vi/ej0SY1qOTsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ej0SY1qOTsU)
+[![Latest Video](https://img.youtube.com/vi/ej0SY1qOTsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ej0SY1qOTsU)
 
 </details>
 
@@ -59,5 +61,6 @@
   <summary><h2>🖼️ Featured Image</h2></summary>
   <h4>Brock at the beach!</h4>
 
-  ![Photography](assets/brock.jpg)  
+![Photography](assets/brock.jpg)
+
 </details>
