@@ -1,66 +1,50 @@
-![Banner image](assets/banner.png)
-<span>
-<img height=200 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api?username=adamowada&show_icons=true&theme=radical&card_width=320" alt="Adam's GitHub Stats"/>
-</span>
-<span>
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamowada&theme=radical&card_width=384" alt="Streak Stats"/>
-</span>
-<span>
-<img height=283 align="center" src="https://github-readme-stats-pi-six-31.vercel.app/api/top-langs/?username=adamowada&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5&card_width=321" alt="Top Languages"/>
-</span>
-<a href="https://leetcode.com/u/adamowada/">
-<img height=283 align="center" src="https://colorful-leetcode-stats.vercel.app/api/replace-colors?username=adamowada&bg-0=141321&text-0=D83B7D&text-1=A9FEF7&bg-2=E4E2E2&bg-1=d7fffb&color-0=563D7C&color-1=7dd83b&color-2=d8b53b&color-3=431C36" alt="LeetCode Stats"/>
-</a>
+# Adam Owada
 
-<details open> 
-  <summary><h2>🤖 Cool Projects I've Worked On</h2></summary>
+Applied AI / full-stack engineer focused on agentic developer tooling.
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/adamowada/wa-driver-guide-practice-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=wa-driver-guide-practice-frontend&theme=radical" alt="wa-driver-guide-practice-frontend"></a>
-    <a href="https://github.com/adamowada/wa-driver-guide-practice-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=wa-driver-guide-practice-api&theme=radical" alt="wa-driver-guide-practice-api"></a>
-    <a href="https://github.com/codefellows/seattle-code-python-401n8"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=codefellows&repo=seattle-code-python-401n8&theme=radical" alt="seattle-code-python-401n8"></a>
-    <a href="https://github.com/adamowada/prompt-engineering-patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=prompt-engineering-patterns&theme=radical" alt="prompt-engineering-patterns"></a>
-    <a href="https://github.com/adamowada/slides-to-reveal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=slides-to-reveal&theme=radical" alt="slides-to-reveal"></a>
-    <a href="https://github.com/adamowada/personal-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=personal-website&theme=radical" alt="personal-website"></a>
-    <a href="https://github.com/adamowada/evals"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=evals&theme=radical" alt="evals"></a>
-    <a href="https://github.com/adamowada/colorful-leetcode-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=colorful-leetcode-stats&theme=radical" alt="colorful-leetcode-stats"></a>
-    <a href="https://github.com/adamowada/dump-to-text"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=dump-to-text&theme=radical" alt="dump-to-text"></a>
-    <a href="https://github.com/adamowada/auto-acp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=auto-acp&theme=radical" alt="auto-acp"></a>
-    <a href="https://github.com/adamowada/cba-chatbot-demo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=cba-chatbot-demo&theme=radical" alt="cba-chatbot-demo"></a>
-    <a href="https://github.com/adamowada/tflite-test"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adamowada&repo=tflite-test&theme=radical" alt="tflite-test"></a>
-  </p>
-</details>
+I build Python and TypeScript systems that turn messy workflows into reliable software: APIs, data pipelines, LLM tools, MCP integrations, and developer-facing automation.
 
-<details open> 
-  <summary><h2>👋 About Me</h2></summary>
+I am based in Seattle. My recent work is focused on B2B SaaS, agentic engineering workflows, evaluation infrastructure, and practical LLM applications.
 
-  <p>Hi, I'm Adam, a fullstack software dev and AI tinkerer based in Seattle. I'm the co-founder and sole developer of Observe Safety, an enterprise SaaS platform designed to help general contractors efficiently track and manage safety data.</p>
-</details>
+## Selected Work
 
-<details closed> 
-  <summary><h2>🧑‍💻 Fun Facts</h2></summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐕 My dog Brock is bestest boy<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌲 Recently went camping at Olympic National Park<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📸 Portrait photographer rocking a Sony a6500<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏋️‍♂️ Competed in 4 men's physique bodybuilding competitions<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☕ Coffee is life!<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎤 Retired wedding DJ/MC with over 10 years of experience<br>
-</details>
+| Project | What it shows |
+| --- | --- |
+| [codex-supervisor](https://github.com/adamowada/codex-supervisor) | Python-first control plane for Codex-driven engineering workflows: durable task state, worker evidence, isolated worktrees, MCP/plugin surfaces, and review loops. |
+| [codex-subagent-testing](https://github.com/adamowada/codex-subagent-testing) | Benchmark harness for comparing Codex subagent coding topologies with isolated runs, public/hidden test scoring, token accounting, and report generation. |
+| [nlp-stock-prediction](https://github.com/adamowada/nlp-stock-prediction) | Python research/reporting system with evidence-backed reports, SQLite-backed artifacts, MCP tooling, provider-health handling, and evaluation workflows. |
+| [Web Design Templates](https://github.com/adamowada/templates) | Codex plugin for frontend design retrieval using recipes, pattern docs, source-backed exemplars, validation guides, and smoke-test discipline. |
+| [merry-men](https://github.com/adamowada/merry-men) | Paper-only Robinhood-compatible MCP experiment with local SQLite account state, simulated order lifecycle, research/context tools, reports, and a loopback dashboard. |
+| [Observe Safety](https://observesafety.com) | Alpha-stage construction safety SaaS with Next.js, Expo React Native, FastAPI, PostgreSQL, RBAC/RLS, analytics, mobile reporting, CI, and AWS production-pilot infrastructure. |
 
-<details closed>
-  <summary><h2>🎥 My YouTube Channel</h2></summary>
-  <h4>Check out my latest video</h4>
+## Background
 
-[![Latest Video](https://img.youtube.com/vi/ej0SY1qOTsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ej0SY1qOTsU)
+Before focusing on applied AI and developer tooling, I was a Lead Instructor at Code Fellows, where I taught advanced Python, Django, REST APIs, PostgreSQL, Docker, React/Next.js, data science, testing, and software engineering fundamentals.
 
-</details>
+I have also built paid client tools for sports data ingestion, reconciliation, salary-comparable analysis, and owner-facing admin workflows.
 
-<details closed>
-  <summary><h2>🖼️ Featured Image</h2></summary>
-  <h4>Brock at the beach!</h4>
+## What I Work With
 
-![Photography](assets/brock.jpg)
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Backend:** FastAPI, Django, DRF, Node.js, Express
+- **Frontend:** React, Next.js, Tailwind, Expo React Native
+- **Data:** PostgreSQL, SQLite, MongoDB, SQLAlchemy, Pydantic
+- **AI / Tooling:** OpenAI APIs, MCP, Codex workflows, LLM evaluation, prompt engineering
+- **Quality:** pytest, Vitest, Playwright, mypy, ruff, CI, structured test/evaluation workflows
 
-</details>
+## Current Focus
+
+I am especially interested in roles involving:
+
+- Applied AI engineering
+- Agentic developer tooling
+- LLM evaluation and workflow infrastructure
+- Python backend systems
+- Full-stack product engineering
+- MCP/tool integration design
+
+## Links
+
+- Website: [adamowada.com](https://www.adamowada.com/)
+- LinkedIn: [linkedin.com/in/adamowada](https://www.linkedin.com/in/adamowada/)
+- GitHub: [github.com/adamowada](https://github.com/adamowada)
